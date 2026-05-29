@@ -48,3 +48,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# ========================
+# MAVEN WORKAROUND (I have no idea how Java but I don't give af)
+# ========================
+target
+**/node_modules
+
